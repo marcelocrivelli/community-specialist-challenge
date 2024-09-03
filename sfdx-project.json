@@ -1,0 +1,23 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "package": "Community Specialist Challenge App",
+      "versionName": "ver 0.1",
+      "versionNumber": "0.1.0.NEXT",
+      "default": false,
+      "versionDescription": "Community Specialist App"
+    }
+  ],
+  "name": "CommunitySpecialist",
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "61.0",
+  "packageAliases": {
+    "Community Specialist Challenge App": "0Hoaj0000000D0TCAU",
+    "Community Specialist Challenge App@0.1.0-1": "04taj0000002wxZAAQ",
+    "Community Specialist Challenge App@0.1.0-2": "04taj0000002x0nAAA",
+    "Community Specialist Challenge App@0.1.0-3": "04taj0000002x2PAAQ",
+    "Community Specialist Challenge App@0.1.0-4": "04taj0000002x41AAA"
+  }
+}
